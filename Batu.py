@@ -66,12 +66,11 @@
  ​                    %sINFORMATION%s 
  ​ ------------------------------------------------------ 
   
- ​    Author     Hak9 
+ ​    Author     but 
  ​    Name       Facebook Information 
  ​    Version    Full Version 
- ​    Date       08/04/2019  
- ​    Jabber     xhak9x@jabber.de 
-  
+ ​    Date       21/12/2021 
+ ​    Jabber     butjon73@gmail.com
  ​* if you find any errors or problems , please contact 
  ​  author 
  ​'''​%​(​G​,​W​) 
